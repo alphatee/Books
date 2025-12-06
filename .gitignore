@@ -1,0 +1,5 @@
+# Example .gitignore content
+.idea/
+__pycache__/
+.venv/
+in_memory_storage.json
