@@ -1,0 +1,182 @@
+[
+  {
+    "isbn": "978-0446310789",
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "pages": 320,
+    "price": "9.99",
+    "publication_date": "1960-07-11T00:00:00Z",
+    "famous_quote": "You never really understand a person until you consider things from his point of view... until you climb into his skin and walk around in it."
+  },
+  {
+    "isbn": "978-0451524935",
+    "title": "1984",
+    "author": "George Orwell",
+    "pages": 328,
+    "price": "10.99",
+    "publication_date": "1949-06-08T00:00:00Z",
+    "famous_quote": "Big Brother is watching you."
+  },
+  {
+    "isbn": "978-0743273565",
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "pages": 180,
+    "price": "12.99",
+    "publication_date": "1925-04-10T00:00:00Z",
+    "famous_quote": "So we beat on, boats against the current, borne back ceaselessly into the past."
+  },
+  {
+    "isbn": "978-0747532743",
+    "title": "Harry Potter and the Philosopher's Stone",
+    "author": "J.K. Rowling",
+    "pages": 223,
+    "price": "24.99",
+    "publication_date": "1997-06-26T00:00:00Z",
+    "famous_quote": "It takes a great deal of bravery to stand up to our enemies, but just as much to stand up to our friends."
+  },
+  {
+    "isbn": "978-0618002232",
+    "title": "The Fellowship of the Ring",
+    "author": "J.R.R. Tolkien",
+    "pages": 464,
+    "price": "15.99",
+    "publication_date": "1954-07-29T00:00:00Z",
+    "famous_quote": "All we have to decide is what to do with the time that is given us."
+  },
+  {
+    "isbn": "978-0140449266",
+    "title": "The Odyssey",
+    "author": "Homer",
+    "pages": 448,
+    "price": 11.99,
+    "publication_date": "c. 8th century BCE",
+    "famous_quote": "Of all creatures that breathe and move upon the earth, nothing is bred that is weaker than man."
+  },
+  {
+    "isbn": "978-0743273565",
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "pages": 279,
+    "price": 8.99,
+    "publication_date": "1813-01-28T00:00:00Z",
+    "famous_quote": "It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife."
+  },
+  {
+    "isbn": "978-0140449266",
+    "title": "Frankenstein",
+    "author": "Mary Shelley",
+    "pages": 280,
+    "price": 10.99,
+    "publication_date": "1818-01-01T00:00:00Z",
+    "famous_quote": "Beware; for I am fearless, and therefore powerful."
+  },
+  {
+    "isbn": "978-0140449266",
+    "title": "Moby Dick",
+    "author": "Herman Melville",
+    "pages": 624,
+    "price": 14.99,
+    "publication_date": "1851-10-18T00:00:00Z",
+    "famous_quote": "Call me Ishmael."
+  },
+  {
+    "isbn": "978-0140449266",
+    "title": "Great Expectations",
+    "author": "Charles Dickens",
+    "pages": 505,
+    "price": 11.99,
+    "publication_date": "1861-00-00T00:00:00Z",
+    "famous_quote": "In a word, I was too cowardly to do what I knew to be right, as I had been too cowardly to avoid doing what I knew to be wrong."
+  },
+  {
+    "isbn": "978-0140449266",
+    "title": "War and Peace",
+    "author": "Leo Tolstoy",
+    "pages": 1296,
+    "price": 18.99,
+    "publication_date": "1869-00-00T00:00:00Z",
+    "famous_quote": "The two most powerful warriors are patience and time."
+  },
+  {
+    "isbn": "978-0140449266",
+    "title": "The Adventures of Huckleberry Finn",
+    "author": "Mark Twain",
+    "pages": 366,
+    "price": 9.99,
+    "publication_date": "1884-12-10T00:00:00Z",
+    "famous_quote": "You don't know about me, without you have read a book by the name of 'The Adventures of Tom Sawyer,' but that ain't no matter."
+  },
+  {
+    "isbn": "978-0140449266",
+    "title": "Dracula",
+    "author": "Bram Stoker",
+    "pages": 418,
+    "price": 10.99,
+    "publication_date": "1897-05-26T00:00:00Z",
+    "famous_quote": "I want you to believe... to believe in things that you cannot."
+  },
+  {
+    "isbn": "978-0140449266",
+    "title": "The Picture of Dorian Gray",
+    "author": "Oscar Wilde",
+    "pages": 254,
+    "price": 9.99,
+    "publication_date": "1890-06-20T00:00:00Z",
+    "famous_quote": "The only way to get rid of a temptation is to yield to it."
+  },
+  {
+    "isbn": "978-0140449266",
+    "title": "Ulysses",
+    "author": "James Joyce",
+    "pages": 732,
+    "price": 16.99,
+    "publication_date": "1922-02-02T00:00:00Z",
+    "famous_quote": "A man's errors are his portals of discovery."
+  },
+  {
+    "isbn": "978-0140449266",
+    "title": "The Grapes of Wrath",
+    "author": "John Steinbeck",
+    "pages": 464,
+    "price": 13.99,
+    "publication_date": "1939-04-14T00:00:00Z",
+    "famous_quote": "A man, after he has brushed off the dust and sweat, will walk in his talk, and cleanse his soul with his own mouth."
+  },
+  {
+    "isbn": "978-0140449266",
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "pages": 224,
+    "price": 10.99,
+    "publication_date": "1951-07-16T00:00:00Z",
+    "famous_quote": "Anyway, I'm glad I'm not in Rome. I'd probably go to the Colosseum and see a bunch of gladiators get killed or something."
+  },
+  {
+    "isbn": "978-0140449266",
+    "title": "One Hundred Years of Solitude",
+    "author": "Gabriel García Márquez",
+    "pages": 417,
+    "price": 14.99,
+    "publication_date": "1967-05-30T00:00:00Z",
+    "famous_quote": "Many years later, as he faced the firing squad, Colonel Aureliano Buendía was to remember that distant afternoon when his father took him to discover ice."
+  },
+  {
+    "isbn": "978-0140449266",
+    "title": "The Hitchhiker's Guide to the Galaxy",
+    "author": "Douglas Adams",
+    "pages": 192,
+    "price": 9.99,
+    "publication_date": "1979-10-12T00:00:00Z",
+    "famous_quote": "Don't Panic!"
+  },
+  {
+    "isbn": "978-0385484518",
+    "title": "The Handmaid's Tale",
+    "author": "Margaret Atwood",
+    "pages": 311,
+    "price": 12.99,
+    "publication_date": "1985-00-00T00:00:00Z",
+    "famous_quote": "Nolite te bastardes carborundorum."
+  }
+]
